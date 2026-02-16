@@ -1,6 +1,6 @@
 package core_java.data_type;
 
-public class PracticsTravelComputation {
+public class PracticsLevel1TravelComputation {
 
   public static void main(String[] args) {
 
@@ -36,10 +36,10 @@ public class PracticsTravelComputation {
 // Sabse pehle hum distance calculate karenge. Total distance nikalne ke liye hum Chennai se Vellore ka distance aur Vellore se Bangalore ka distance ko add karenge. Iska formula hoga: totalDistance = distanceFromChennaiToVellore + distanceFromVelloreToBangalore. Isko code mein likhne par hume milega: double totalDistance = distanceFromChennaiToVellore + distanceFromVelloreToBangalore;
 // Ab hum time calculate karenge. Total time nikalne ke liye hum Chennai se Vellore ka time aur Vellore se Bangalore ka time ko add karenge. Iska formula hoga: totalTime = timeFromChennaiToVellore + timeFromVelloreToBangalore. Isko code mein likhne par hume milega: int totalTime = timeFromChennaiToVellore + timeFromVelloreToBangalore;
 // Ab hum total distance aur total time ko print karenge. Iske liye hum System.out.println() ka use karenge. Hum message mein name, fromCity, toCity, viaCity, totalDistance aur totalTime ko include karenge. Isko code mein likhne par hume milega: System.out.println("The Total Distance travelled by " + name + " from " +
-        fromCity + " to " + toCity + " via " + viaCity +
+       /*  fromCity + " to " + toCity + " via " + viaCity +
         " is " + totalDistance + " km and " +
         "the Total Time taken is " + totalTime + " minutes");
-// Is tarah se hum total distance aur total time calculate kar sakte hain aur print kar sakte hain.
+ Is tarah se hum total distance aur total time calculate kar sakte hain aur print kar sakte hain.*/
 
 
 

@@ -1,5 +1,7 @@
 package core_java.data_type;
 
+import java.util.Scanner;
+
 public class PracticeLevel1UnivercityFessUserInput {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
