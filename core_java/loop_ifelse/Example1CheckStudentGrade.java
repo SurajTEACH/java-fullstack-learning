@@ -1,4 +1,4 @@
-package core_java.loop;
+package core_java.loop_ifelse;
 
 import java.util.Scanner;
 

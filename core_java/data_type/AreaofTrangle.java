@@ -2,7 +2,7 @@ package core_java.data_type;
 
 import java.util.Scanner;
 
-public class PracticeLevel2AreaofTrangle {
+public class AreaofTrangle {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the base of the triangle:");
