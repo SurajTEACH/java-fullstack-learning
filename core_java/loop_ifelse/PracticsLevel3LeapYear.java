@@ -1,6 +1,6 @@
 package core_java.loop_ifelse;
 
-public class PracticeLevel3LeapYear {
+public class PracticsLevel3LeapYear {
     public static void main(String[] args){
         int year = 2000;
         if(year % 4 == 0 && year % 100 != 0 || year % 400 == 0){

@@ -16,3 +16,7 @@ public class PrcaticsLevel2FactorNumber {
         }
     }
 }
+
+/*Create a program to find the factors of a number taken as user input.
+Hint =>
+a. Get the input value for a variable named number and check if it is a positive integer. b. Run a for loop from i = 1 to i < number. In each iteration of the loop, check if the number is perfectly divisible by i. If true, print the value of i. 4 */
